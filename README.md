@@ -70,3 +70,5 @@ Here is an illustration of what we are doing:
  
  - Server Manager > "Add Roles and Features" > Check "Active Directory Domain Services"
  ![vivaldi_od5BgUKG6G](https://user-images.githubusercontent.com/109401839/213214935-0fe230d0-60be-431a-bf31-53cfc50748b9.png)
+ <img src="https://i.imgur.com/D0jC4Eg.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+  
