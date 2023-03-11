@@ -64,3 +64,9 @@ Here is an illustration of what we are doing:
 <p>
   
  <h2>Install Active Directory<h2>
+
+ 1. Login to DC-1 and install Active Directory Domain Services
+    
+ 
+ - Server Manager > "Add Roles and Features" > Check "Active Directory Domain Services"
+ ![vivaldi_od5BgUKG6G](https://user-images.githubusercontent.com/109401839/213214935-0fe230d0-60be-431a-bf31-53cfc50748b9.png)
