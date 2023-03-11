@@ -62,3 +62,5 @@ Here is an illustration of what we are doing:
 </p>
   <img src="https://i.imgur.com/1lrrGPw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+  
+ <h2>Install Active Directory<h2>
