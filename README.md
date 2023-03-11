@@ -54,6 +54,6 @@ Here is an illustration of what we are doing:
 <img src="https://i.imgur.com/wgf8l75.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 </p>
 
-</p>wsx
+</p>DC-1 has to have a static Private IP Address. Client one will connect to DC-1 to ensure connectivity we will try to ping DC-1 from Client-1. At first the ping will not work correctly. We have to enable ICMPv4 on the firewall on DC-1. Now we can ping DC-1 successfully from Client-1
 
-<br />
+<h2>Ensure Connection between Client and Domain Controller<h2>
